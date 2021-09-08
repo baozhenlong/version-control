@@ -49,7 +49,7 @@
         + 预发布（release）分支
         + 修补 bug（fixBug）分支
 9. 使用流程规范
-10. 储藏（Stashing）
+10. 储藏（Stash）
 11. 子模块
 12. Git 工作流程
     1. Git flow
